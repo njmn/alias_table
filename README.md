@@ -16,3 +16,6 @@
     interface.main()
     ```
     ![alt text](image.png)
+
+## 参考
+https://zenn.dev/hph/articles/cb9e8655248dae
